@@ -66,5 +66,4 @@ Gosto de aprender na pratica, desenvolvendo projetos e aplicando conceitos que a
 <ul>
   <li>👨‍🎓 Graduando em ADS</li>
   <li>Visão Analitica e Resolução de problemas</li>
-  <li>Foramações: Graduado em Psicologia e Pós Graduado em Psicologia Clinica</li>
 </ul>
