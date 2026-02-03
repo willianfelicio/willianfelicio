@@ -1,6 +1,6 @@
 ## 👨‍💻 Willian Felicio
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Web | Front-end em formação | JavaScript`**
 
 Me chamo Willian Felicio Cavalcanti, tenho 26 anos e sou natural de São Paulo - SP. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNINOVE. Sou apaixonado por tecnologia e desenvolvimento web.
 Atualmente estou estudando e criando uma base solida em **Front-End**, com o objetivo de me tornar um desenvolvedor **Full Stack**.
