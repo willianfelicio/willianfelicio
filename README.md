@@ -4,7 +4,7 @@
 
 👋 Olá, eu sou o Willian Felicio
 
-Sou estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor focado em criar aplicações web funcionais e bem estruturadas.
+Sou estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor focado em criar aplicações web funcionais, responsivas e bem estruturadas.
 Atualmente estudo JavaScript e desenvolvimento Front-end, com o objetivo de evoluir para Full Stack.
 
 📍 São Paulo – SP
