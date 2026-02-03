@@ -2,9 +2,13 @@
 
 **`Desenvolvedor Web | Front-end em formação | JavaScript`**
 
-Me chamo Willian Felicio Cavalcanti, tenho 26 anos e sou natural de São Paulo - SP. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNINOVE. Sou apaixonado por tecnologia e desenvolvimento web.
-Atualmente estou estudando e criando uma base solida em **Front-End**, com o objetivo de me tornar um desenvolvedor **Full Stack**.
-Gosto de aprender na pratica, desenvolvendo projetos e aplicando conceitos que adquiro com estudos diarios.
+👋 Olá, eu sou o Willian Felicio
+
+Sou estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor focado em criar aplicações web funcionais e bem estruturadas.
+Atualmente estudo JavaScript e desenvolvimento Front-end, com o objetivo de evoluir para Full Stack.
+
+📍 São Paulo – SP
+🎯 Buscando oportunidade como Desenvolvedor Júnior ou Estágio
 
  ---
  ### 👨‍🏫 Atualmente Estou estudando
