@@ -1,11 +1,14 @@
 ## 👨‍💻 Willian Felicio
 
-**`Desenvolvedor Web | Front-end em formação | JavaScript`**
+**`Back-end em formação | JavaScript | JAVA`**
 
 👋 Olá, eu sou o Willian Felicio
 
-Sou estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor focado em criar aplicações web funcionais, responsivas e bem estruturadas.
-Atualmente estudo JavaScript e desenvolvimento Front-end, com o objetivo de evoluir para Full Stack.
+Sou desenvolvedor Back-end em formação, focado em construir APIs, regras de negócio e aplicações escaláveis. Atualmente estudo JavaScript no Back-end com Node.js e estou iniciando meus estudos em Java, com foco em desenvolvimento Back-end.
+
+Possuo conhecimento básico em Front-end, que foi meu início na área, onde desenvolvi
+alguns projetos pessoais simples e funcionais.
+
 
 📍 São Paulo – SP
 🎯 Buscando oportunidade como Desenvolvedor Júnior ou Estágio
@@ -21,7 +24,26 @@ Atualmente estudo JavaScript e desenvolvimento Front-end, com o objetivo de evol
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
+  <img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+
+  <img 
+    align="left" 
+    alt="SQL" 
+    title="SQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+
   <br><br>
+
  ---
 
 ### 🤖 Linguagens e Tecnologias
