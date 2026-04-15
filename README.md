@@ -4,10 +4,9 @@
 
 👋 Olá, eu sou o Willian Felicio
 
-Sou desenvolvedor Back-end em formação, focado em construir APIs, regras de negócio e aplicações escaláveis. Atualmente estudo JavaScript no Back-end com Node.js e estou iniciando meus estudos em Java, com foco em desenvolvimento Back-end.
+Sou desenvolvedor Back-end em formação, com foco na construção de APIs, regras de negócio e aplicações escaláveis. Atualmente, estou aprofundando meus estudos em desenvolvimento Back-end e iniciando minha trajetória em Java, buscando evoluir cada vez mais na área.
 
-Possuo conhecimento básico em Front-end, que foi meu início na área, onde desenvolvi
-alguns projetos pessoais simples e funcionais.
+Tenho também conhecimentos em Front-end, área pela qual comecei na tecnologia, o que me proporcionou uma visão mais completa do desenvolvimento de aplicações. Ao longo dessa trajetória, desenvolvi projetos pessoais simples e funcionais, que contribuíram para fortalecer minha base técnica.
 
 
 📍 São Paulo – SP
@@ -31,15 +30,6 @@ alguns projetos pessoais simples e funcionais.
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-
-  <img 
-    align="left" 
-    alt="SQL" 
-    title="SQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
 
   <br><br>
@@ -90,6 +80,15 @@ alguns projetos pessoais simples e funcionais.
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+/>
+
+  <img 
+    align="left" 
+    alt="SQL" 
+    title="SQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
 
 <br/>
