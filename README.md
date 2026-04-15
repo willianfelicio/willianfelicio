@@ -1,6 +1,6 @@
 ## 👨‍💻 Willian Felicio
 
-**`Back-end em formação | JavaScript | JAVA | PHP`**
+**`Back-end em formação | JAVA | PHP`**
 
 👋 Olá, eu sou o Willian Felicio
 
