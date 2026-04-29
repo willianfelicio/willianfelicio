@@ -4,9 +4,9 @@
 
 👋 Olá, eu sou o Willian Felicio
 
-Sou desenvolvedor Back-end em formação, com foco na construção de APIs, regras de negócio e aplicações escaláveis. Atualmente, estou aprofundando meus estudos em desenvolvimento Back-end e iniciando minha trajetória em Java, buscando evoluir cada vez mais na área.
+Sou desenvolvedor back-end em formação, com foco em lógica de programação, orientação a objetos e construção de aplicações. Atualmente, estou aprofundando meus estudos em Java, buscando consolidar minha base no desenvolvimento back-end.
 
-Tenho também conhecimentos em Front-end, área pela qual comecei na tecnologia, o que me proporcionou uma visão mais completa do desenvolvimento de aplicações. Ao longo dessa trajetória, desenvolvi projetos pessoais simples e funcionais, que contribuíram para fortalecer minha base técnica.
+Possuo conhecimentos em desenvolvimento web (HTML, CSS, JavaScript e PHP), área pela qual iniciei minha trajetória na tecnologia, o que me proporcionou uma visão geral do desenvolvimento de aplicações. Ao longo desse processo, venho praticando com exercícios e projetos simples, com o objetivo de evoluir continuamente minhas habilidades técnicas
 
 
 📍 São Paulo – SP
