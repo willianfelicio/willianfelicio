@@ -4,16 +4,21 @@
 
 # 👋 Olá, eu sou o Willian Felicio
 
-Sou desenvolvedor back-end em formação e estudante de Análise e Desenvolvimento de Sistemas, com foco atual no desenvolvimento em Java, lógica de programação e orientação a objetos.
+Sou desenvolvedor Back-End em formação e estudante de Análise e Desenvolvimento de Sistemas, com foco no desenvolvimento de aplicações utilizando Java e Spring Boot, além de lógica de programação, orientação a objetos e desenvolvimento de APIs.
 
-Possuo formação complementar em Engenharia de Software pela FIAP, por meio de nanocurso com 100 horas de duração, que contribuiu para ampliar minha compreensão sobre os fundamentos e processos envolvidos no desenvolvimento de software.
+Possuo formação complementar em Engenharia de Software pela FIAP, por meio de um nanocurso de 100 horas, que contribuiu para ampliar minha compreensão sobre os fundamentos, processos e boas práticas envolvidos no desenvolvimento de software.
 
-Minha trajetória na tecnologia começou com o desenvolvimento web, onde tive contato com HTML, CSS, JavaScript e PHP. Essa experiência me proporcionou uma base em desenvolvimento de aplicações e contribuiu para minha transição para o back-end.
+Minha trajetória na tecnologia começou com o desenvolvimento web, onde adquiri conhecimentos em HTML, CSS, JavaScript e PHP, além de banco de dados e desenvolvimento de aplicações CRUD. Atualmente, direciono meus estudos e projetos para o Back-End, utilizando Java e Spring Boot. Já desenvolvi e publiquei um projeto Java, utilizando tecnologias como Render, Neon Tech e Vercel, ampliando minha experiência prática com desenvolvimento e publicação de aplicações.
 
-Atualmente, venho aprofundando meus conhecimentos em Java por meio de exercícios e projetos práticos, buscando fortalecer minha base de programação e desenvolver aplicações cada vez mais estruturadas.
+Busco constantemente aprimorar minhas habilidades técnicas por meio de projetos práticos e estudos contínuos, valorizando o raciocínio lógico, a resolução de problemas e a construção de soluções bem estruturadas.
 
-📍 São Paulo – SP
-🎯 Buscando oportunidade como Desenvolvedor Júnior ou Estágio
+🎯 **Objetivo:** Oportunidades de estágio ou Desenvolvedor Back-End Júnior.
+
+📍 **Localização:** São Paulo – SP.
+
+✈️ **Disponibilidade:** Mudança para Fortaleza – CE.
+
+💻 **Tecnologias:** Java, Spring Boot, PHP, SQL, HTML, CSS, JavaScript, Git e GitHub.
 
  ---
  ### 👨‍🏫 Atualmente Estou estudando
