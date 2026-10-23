@@ -13,8 +13,11 @@ Minha trajetória na tecnologia começou com o desenvolvimento web, onde adquiri
 Busco constantemente aprimorar minhas habilidades técnicas por meio de projetos práticos e estudos contínuos, valorizando o raciocínio lógico, a resolução de problemas e a construção de soluções bem estruturadas.
 
 🎯 Objetivo: Oportunidades de estágio ou Desenvolvedor Back-End Júnior.
+
 📍 Localização: São Paulo – SP.
+
 ✈️ Disponibilidade: Mudança para Fortaleza – CE.
+
 💻 Tecnologias: Java, Spring Boot, PostgreSQL, PHP, SQL, HTML, CSS, JavaScript, Git e GitHub.
 
  ---
