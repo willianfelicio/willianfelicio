@@ -108,11 +108,11 @@ Busco constantemente aprimorar minhas habilidades técnicas por meio de projetos
  **Sobre mim**
 <ul>
  <li> 👨‍🎓 Graduando em Análise e Desenvolvimento de Sistemas.</li>
-- 💻 Desenvolvedor Back-End em formação, com foco em Java e Spring Boot.
-- ☕ Estudos em Programação Orientada a Objetos, Programação Orientada a Especificações e Programação Orientada a Eventos.
-- 🔗 Interesse em desenvolvimento de APIs REST, arquitetura de software e integração com bancos de dados.
-- 🗄️ Conhecimentos em Java, Spring Boot, SQL e PostgreSQL.
-- 🤖 Conhecimentos complementares em Inteligência Artificial e Agentes Autônomos.
-- 🧩 Perfil analítico, com foco em raciocínio lógico e resolução de problemas.
-- 🚀 Comprometido com o aprendizado contínuo e o desenvolvimento de soluções eficientes e bem estruturadas.
+ <li>💻 Desenvolvedor Back-End em formação, com foco em Java e Spring Boot.</li>
+ <li>☕ Estudos em Programação Orientada a Objetos, Programação Orientada a Especificações e Programação Orientada a Eventos.</li>
+ <li>🔗 Interesse em desenvolvimento de APIs REST, arquitetura de software e integração com bancos de dados.</li>
+ <li>🗄️ Conhecimentos em Java, Spring Boot, SQL e PostgreSQL.</li>
+ <li>🤖 Conhecimentos complementares em Inteligência Artificial e Agentes Autônomos.</li>
+ <li>🧩 Perfil analítico, com foco em raciocínio lógico e resolução de problemas.</li>
+ <li>🚀 Comprometido com o aprendizado contínuo e o desenvolvimento de soluções eficientes e bem estruturadas.</li>
 </ul>
